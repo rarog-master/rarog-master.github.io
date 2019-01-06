@@ -1,0 +1,3 @@
+﻿User-agent: *
+Sitemap: http://rarog-master.ga/sitemap.xml
+Host: rarog-master.ga
